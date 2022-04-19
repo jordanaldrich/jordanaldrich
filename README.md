@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jordanaldrich
 - 👀 I’m interested in Cybersecurity!
 - 🌱 I’m currently learning Linux, Burp Suite, PTF.
-- 💞️ I’m looking to collaborate on bug bounties. 
+- 💞️ I’m looking to collaborate on CTF. 
 - 📫 How to reach me jordanaldrich@aol.com
 
 <!---
