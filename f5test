@@ -1,0 +1,8 @@
+- name: run show version on remote devices
+  bigip_command:
+    commands: show sys version
+    provider:
+      server: lb.mydomain.com
+      password: secret
+      user: admin
+  delegate_to: localhost
